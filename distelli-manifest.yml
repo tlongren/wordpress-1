@@ -1,11 +1,11 @@
-<SET_ME_DISTELLI_USERNAME>/wordpress:
+tlongren/audrey-dev:
       
   Env:
     # Set the variables below
-    - MYSQL_ROOT_PASSWORD: "<SET_ME>"
-    - DB_NAME: "<SET_ME>"
-    - DB_USER_NAME: "<SET_ME>"
-    - DB_USER_PASSWORD: "<SET_ME>"
+    - MYSQL_ROOT_PASSWORD: "chin4Zohse"
+    - DB_NAME: "audreydev"
+    - DB_USER_NAME: "longrendev"
+    - DB_USER_PASSWORD: "chin4Zohse"
 
   PkgInclude:
     - '*'
