@@ -1,4 +1,4 @@
-tlongren/wordpress:
+tlongren/wordpress-1:
       
   Env:
     # Set the variables below
